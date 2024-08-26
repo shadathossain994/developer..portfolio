@@ -211,3 +211,17 @@ main {
 /* Resume section styles end */
 
 /* End main section  */
+
+
+/* Footer related styles */
+
+/* start footer section */
+
+footer{
+  display: flex;
+  background: #FFF8F3;
+  margin-top: 100px;
+  padding: 130px 200px;
+}
+
+/* end footer section */
