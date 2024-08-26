@@ -244,6 +244,9 @@ footer{
   width: 100%;
 }
 
+textarea{
+  height: 180px;
+}
 .contact {
   
 }
